@@ -1,0 +1,8 @@
+build.xml
+login.properties
+staging
+export
+*.jar
+*.zip
+dev.properties
+compile.net.sourceforge.eclipseccase.xml
